@@ -1,0 +1,448 @@
+[
+  {
+    "filename": "Lucinda-Davis-a-woman-of-Black-and-Creek-heritage.jpg",
+    "caption": "Lucinda Davis \u2014 woman of Black and Creek heritage",
+    "era": "1800s",
+    "community": [
+      "african-american",
+      "native-american"
+    ],
+    "themes": [
+      "identity",
+      "land",
+      "witness",
+      "family"
+    ],
+    "emotional_register": "dignity",
+    "convergence": true,
+    "notes": "Lucinda Davis holds both histories simultaneously \u2014 the single most important convergence image in the archive"
+  },
+  {
+    "filename": "A-Brief-Overview-of-the-Creek-Indians.jpg",
+    "caption": "Creek Nation \u2014 portrait, c.1820s",
+    "era": "1820s",
+    "community": [
+      "native-american"
+    ],
+    "themes": [
+      "land",
+      "identity",
+      "before"
+    ],
+    "emotional_register": "presence",
+    "convergence": false,
+    "notes": "Creek Nation presence on this land before 1821 cession"
+  },
+  {
+    "filename": "04_McIntosh_and_the_Treary_with_Creeks_Float_parade.jpg",
+    "caption": "McIntosh and the Treaty with Creeks Float \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "erasure",
+      "performance",
+      "land",
+      "ceremony",
+      "power"
+    ],
+    "emotional_register": "appropriation",
+    "convergence": true,
+    "notes": "Duplicate scan \u2014 same float, slightly different angle"
+  },
+  {
+    "filename": "Black_cotton_farming_family.jpg",
+    "caption": "Black cotton farming family \u2014 Henry County, Georgia",
+    "era": "1890s",
+    "community": [
+      "african-american"
+    ],
+    "themes": [
+      "labor",
+      "family",
+      "land",
+      "cotton",
+      "dignity"
+    ],
+    "emotional_register": "dignity",
+    "convergence": false,
+    "notes": "Family standing together in the field \u2014 their gaze is direct, composed, claiming the frame"
+  },
+  {
+    "filename": "cotton.jpg",
+    "caption": "Cotton field with overseer on horseback \u2014 Georgia",
+    "era": "1880s",
+    "community": [
+      "white",
+      "african-american"
+    ],
+    "themes": [
+      "labor",
+      "power",
+      "cotton",
+      "land",
+      "coercion"
+    ],
+    "emotional_register": "power",
+    "convergence": true,
+    "notes": "The same cotton field \u2014 two histories in one frame. The overseer on horseback, the workers bent"
+  },
+  {
+    "filename": "Recept_for_1_bale_of_cotton_1918.jpg",
+    "caption": "Green, Tarpley & Co. \u2014 receipt for one bale of cotton, McDonough GA, 1918",
+    "era": "1918",
+    "community": [
+      "white",
+      "african-american"
+    ],
+    "themes": [
+      "commerce",
+      "cotton",
+      "labor",
+      "land",
+      "document"
+    ],
+    "emotional_register": "transaction",
+    "convergence": true,
+    "notes": "A document. 495 lbs. $30 cash advance. McDonough, Georgia. The economy made legible on paper"
+  },
+  {
+    "filename": "Camp_Creek_Wreck_color.jpg",
+    "caption": "Camp Creek Wreck \u2014 Henry County, Georgia",
+    "era": "1900s",
+    "community": [
+      "african-american",
+      "white"
+    ],
+    "themes": [
+      "land",
+      "disaster",
+      "witness",
+      "infrastructure"
+    ],
+    "emotional_register": "aftermath",
+    "convergence": true,
+    "notes": "Hand-colored photograph \u2014 a disaster that happened to everyone on this ground regardless of history"
+  },
+  {
+    "filename": "01_Peace_Doves.jpg",
+    "caption": "Peace Doves \u2014 1921 Henry County Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "celebration",
+      "performance"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "02_Locust_Grove_Acc_Band_1921.jpg",
+    "caption": "Locust Grove Accordion Band \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "celebration",
+      "music",
+      "community"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "03_Transportation.jpg",
+    "caption": "Transportation Float \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "progress",
+      "infrastructure",
+      "celebration"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "05_Buick_IV_Centennial_parade_Car_Mosley_Family.jpg",
+    "caption": "Buick IV \u2014 Mosley Family, 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "family",
+      "wealth",
+      "celebration"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "06_Geo_C_Alexander_Miss_Mini.jpg",
+    "caption": "Geo. C. Alexander and Miss Mini \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "family",
+      "celebration"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "07_James_Hooten_Geo_C_Alexander.jpg",
+    "caption": "James Hooten and Geo. C. Alexander \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "community",
+      "portrait"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "08_Representing_first_3_preachers_1921.jpg",
+    "caption": "Representing the first three preachers in the County \u2014 1921",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "religion",
+      "community",
+      "founding"
+    ],
+    "emotional_register": "solemnity",
+    "convergence": false
+  },
+  {
+    "filename": "09_Belles_of_1921.jpg",
+    "caption": "Belles of 1921 \u2014 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "gender",
+      "performance",
+      "celebration"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "10_Mammy_and_Banjo.jpg",
+    "caption": "Mammy and Banjo \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "erasure",
+      "performance",
+      "power",
+      "caricature"
+    ],
+    "emotional_register": "erasure",
+    "convergence": true,
+    "notes": "White performance of Black identity as caricature \u2014 important document of how one community performed the other's history"
+  },
+  {
+    "filename": "13_Hampton_Girl_Scouts.jpg",
+    "caption": "Hampton Girl Scouts \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "community",
+      "youth",
+      "celebration"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "14_Corn_Float_and_Still_1921.jpg",
+    "caption": "Corn Float and Still \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "agriculture",
+      "commerce",
+      "celebration"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "15_Armed_Services_Float_1921.jpg",
+    "caption": "Armed Services Float \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "power",
+      "military",
+      "celebration"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "16_Charmichael_and_Sons.jpg",
+    "caption": "Carmichael and Sons \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "commerce",
+      "family",
+      "community"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "17_Family_Car.jpg",
+    "caption": "Family Car \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "family",
+      "transportation",
+      "celebration"
+    ],
+    "emotional_register": "celebration",
+    "convergence": false
+  },
+  {
+    "filename": "18_6th_District_and_Stockbridge_Womens_Club.jpg",
+    "caption": "6th District and Stockbridge Women's Club \u2014 1921",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "community",
+      "gender",
+      "civic"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "19_Court_House_Steps.jpg",
+    "caption": "Courthouse Steps \u2014 1921 Centennial Parade",
+    "era": "1921",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "ceremony",
+      "power",
+      "civic",
+      "land"
+    ],
+    "emotional_register": "solemnity",
+    "convergence": false,
+    "notes": "The courthouse square \u2014 the center of everything. This ground."
+  },
+  {
+    "filename": "125429263_1819769804842427_6874479974180851161_n.jpg",
+    "caption": "McDonough, Georgia \u2014 aerial view, c.1940s",
+    "era": "1940s",
+    "community": [
+      "white",
+      "african-american"
+    ],
+    "themes": [
+      "land",
+      "town",
+      "infrastructure",
+      "overview"
+    ],
+    "emotional_register": "witness",
+    "convergence": true,
+    "notes": "The whole town from above \u2014 everyone's ground in one frame"
+  },
+  {
+    "filename": "128950111_1831853010300773_2637809071351487275_n.jpg",
+    "caption": "McDonough Power Equipment \u2014 Wagon Train advertisement",
+    "era": "1950s",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "commerce",
+      "industry",
+      "family",
+      "progress"
+    ],
+    "emotional_register": "pride",
+    "convergence": false
+  },
+  {
+    "filename": "131412259_1843210695831671_1100162414052350107_n.jpg",
+    "caption": "McDonough Service Station \u2014 Standard Oil, c.1950s",
+    "era": "1950s",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "commerce",
+      "infrastructure",
+      "daily life"
+    ],
+    "emotional_register": "everyday",
+    "convergence": false
+  },
+  {
+    "filename": "149050731_1886372564848817_5517403334368890811_n.jpg",
+    "caption": "First Baptist Church, McDonough \u2014 c.1940s",
+    "era": "1940s",
+    "community": [
+      "white"
+    ],
+    "themes": [
+      "religion",
+      "community",
+      "architecture",
+      "daily life"
+    ],
+    "emotional_register": "solemnity",
+    "convergence": false
+  }
+]
